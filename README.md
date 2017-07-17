@@ -17,3 +17,6 @@
   - APIリクエストを発行する
   - APIレスポンスを受け取る
 - APIレスポンスをSpreadsheetに書き込む
+
+# 参考URL
+- [Qiita x spreadsheet](http://qiita.com/Humangas/items/089128aa19bf0ce8736d)
